@@ -54,10 +54,11 @@ Random Forest was selected for deployment — best F1 and ROC-AUC among deployab
 
 ## Dashboard
 
-Interactive 3-tab Tableau dashboard (Overview & KPI → Deep-Dive Drivers → Model Performance): **[Tableau Public link]**
+Interactive 3-tab Tableau dashboard (Overview & KPI → Deep-Dive Drivers → Model Performance):
 
-![Dashboard screenshot](dashboard/screenshot.png)
-
+![Dashboard screenshot](dashboard/overview.png)
+![Dashboard screenshot](dashboard/deepdive.png)
+![Dashboard screenshot](dashboard/performance.png)
 ## Tech Stack
 
 `Python` · `pandas` · `scikit-learn` · `Tableau` — data cleaning, feature engineering, classification modeling, and dashboard design.
